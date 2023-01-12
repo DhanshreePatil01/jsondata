@@ -1,24 +1,24 @@
 {
   "employee": [
     {
+       "id": 1,
       "name": "Dhanshree Patil",
-      "gender": "Female",
-      "id": 1
+      "gender": "Female"     
      },
     {
+       "id": 2,
       "name": "Chetna Umredkar",
-      "gender": "Female",
-      "id": 2
+      "gender": "Female" 
     },
     {
+       "id": 3,
       "name": "Poonam Kasle",
-      "gender": "Female",
-      "id": 3
-    },
+      "gender": "Female"
+     },
     {
+       "id": 4,
       "name": "Diksha Landge",
-      "gender": "Female",
-      "id": 4
+      "gender": "Female"
     }
   ]
 }
